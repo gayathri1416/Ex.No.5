@@ -49,7 +49,8 @@ Engineering validation
 Project Title: AI-Based Smart Traffic Management System
 
 <img width="2481" height="1418" alt="image" src="https://github.com/user-attachments/assets/9049e0ab-4643-46f2-b4a8-df91ecce0f92" />
-#### 2.Problem Statement:
+
+## 2.Problem Statement:
 In cities, traffic congestion occurs due to increasing vehicle populations, poor traffic signal coordination, and the absence of real-time traffic monitoring. Traditional traffic signals operate using fixed time intervals, which may cause unnecessary waiting times and traffic delays.
 
 To overcome this problem, an AI-Based Smart Traffic Management System is proposed. The system uses cameras, sensors, and AI algorithms to monitor vehicle density and automatically adjust traffic signal timings.
